@@ -1,4 +1,4 @@
-# Responsive_Website
+# First_Responsive_Website
 
 Developed a responsive web page using HTML5 and CSS3. Reponsive for three devices i.e., mobile, tablet and laptop.
 
